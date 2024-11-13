@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/fotos/ico.logo2.png" type="image/x-icon">
+    <title>ALTO DESEMPENHO</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <style>
+
+    </style>
+</head>
+<body>
+    
+    <h1>MEDO DE MONTAR O SEU COMPUTADOR?
+        CONFIRA ABAIXO!</h1>
+        <p>Muitas pessoas tem um certo receio de <strong>"montar os próprios computadores"</strong>, seja por que é dificil, por que tem medo de estragar alguma peça ou por que não entende muito do assunto. Então acaba optando por um tecnico. Mas, esse medo pode acabar depois das aulas gratuitas sobre: montagem de computadores, manutenção, limpeza, atualização de bios, identificar problemas de incompatibilidade e muito mais!</p>
+    <ol>
+        <div class="aloba">
+            <img src="imagens/fotos/catalogo/12101520199034.webp" alt="">
+            <p> <li><a href="https://www.kabum.com.br/?utm_id=a72385815&gad_source=1&gclid=Cj0KCQjwsoe5BhDiARIsAOXVoUsnLcpr0ghmmlw4_Oqb0rgGNeAdWCmY2cyW86_WU5qQIMqziANCGSEaAkX3EALw_wcB"target="_blank">✔ PEÇAS DE QUALIDADE ✔</a></li> </p>
+        </div>
+        <div class="maximus1">
+            <img src="imagens/fotos/catalogo/Curso de Montagem e Manutenção de Computadores.jpg" alt="">
+            <p> <li><a href="https://www.youtube.com/watch?v=GwLpaf3q6oA"target="_blank">✔ MONTAGEM ✔</a></li></p>
+        </div>
+        <div class="lubes">
+            <img src="imagens/fotos/catalogo/channels4_profile.jpg" alt="">
+u         <p> <li><a href="https://www.adrenaline.com.br/"target="_blank">✔ POR DENTRO DO MUNDO DA TECNOLOGIA ✔</a></li> </p>
+        </div>
+    </ol>    
+    <footer>
+        <div id="footer_content">
+            <div id="footer_contacts">
+                <h1>logo</h1>
+                <p>i'ts all about your dreams</p>
+
+                <div id="footer_social_media">
+                    <b href="#"class= "footer_link" id="instagram">
+                        <i class="fa-brands fa-instagram"></i>
+                    </b>     
+
+                    <b href="#"class= "footer_link" id="facebook">
+                        <i class="fa-brands fa-facebook-f"></i>
+                    </b>                 
+                    
+                    <b href="#"class= "footer_link" id="whatsaap">
+                        <i class="fa-brands fa-whatsapp"></i>
+                    </b>            
+                </div>
+            </div>
+            <ul class="footer_list">
+                <li>
+                    <h3>blog</h3>
+                </li>
+                <li>
+                        <b href="#" class="footer_link">tech</b>
+                </li>
+                 <li>
+                        <b href="#" class="footer_link">adventures</b>
+                </li>
+                <li>
+                        <b href="#" class="footer_link">music</b>
+                </li>
+            </ul>
+
+
+            <ul class="footer_list">
+                <li>
+                    <h3>products</h3>
+                </li>
+                <li>
+                        <b href="#" class="footer_link">app</b>
+                </li>
+                 <li>
+                        <b href="#" class="footer_link">desktop</b>
+                </li>
+                <li>
+                        <b href="#" class="footer_link">cloud</b>
+                </li>
+            </ul>
+            <div id="footer_subscribe"> 
+                <ul>
+                    <h3>subscribe</h3>
+
+                    <p>
+                    enter your e-mail to get notified about our news solutions
+                    </p>
+
+                    <div id="input_group">  
+                    <input type="email" id="email">
+                    <button>
+                        <i class="fa-solid fa-envelope"></i>
+                    </button>
+                </ul>
+            </div>
+        </div>
+        <div id="footer_copyright">
+            &#169
+            2024 aprendendo sempre.
+        </div>
+    </footer>
+ 
+
+</body>
+</html>
